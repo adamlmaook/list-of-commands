@@ -1,0 +1,2 @@
+# list of commands
+ The files are in visual studio code and since this is my first time adding this to github, im going to include the code lines in a READ ME as well.Codes are for python and as the name suggest, its a list of commands i had the code perform for ease of use and i plan to add more commands in the future.. As for the list of commands, you just gonna have to check it out yourself  ;P
